@@ -2,7 +2,7 @@
 
 A modern, responsive flower-shop landing page built with a scalable component-based architecture and a clean ES6+ client-side layer. Features retina graphics, accessible modals, and a data-driven dynamic catalogue.
 
-**Live:** later
+**Live:** https://polina-087.github.io/UMT-markup-practice-ZhuravlovaPolina/
 
 ## Architecture & Features
 
