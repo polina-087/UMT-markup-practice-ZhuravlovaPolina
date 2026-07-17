@@ -1,0 +1,188 @@
+{
+  "bouquets": [
+    {
+      "id": "1",
+      "title": "Spring Elegance",
+      "description": "A delicate blend of peonies, tulips, and roses — perfect for springtime gifting and bright smiles.",
+      "price": 35,
+      "category": "seasonal",
+      "favorite": true,
+      "photoURL": "images/bouquet-morning-dew.jpg",
+      "image2x": "images/bouquet-morning-dew@2x.jpg",
+      "alt": "Spring Elegance bouquet"
+    },
+    {
+      "id": "2",
+      "title": "Berry Chic",
+      "description": "A stylish composition of roses, seasonal greenery, and vibrant berries — a bold and elegant floral statement.",
+      "price": 40,
+      "category": "mixed",
+      "favorite": true,
+      "photoURL": "images/bouquet-crimson-velvet.jpg",
+      "image2x": "images/bouquet-crimson-velvet@2x.jpg",
+      "alt": "Berry Chic bouquet"
+    },
+    {
+      "id": "3",
+      "title": "Lavender Dream",
+      "description": "A rich bouquet with lavender, lisianthus, and roses — ideal for those who love deep hues and gentle fragrance.",
+      "price": 55,
+      "category": "premium",
+      "favorite": true,
+      "photoURL": "images/bouquet-purple-haze.jpg",
+      "image2x": "images/bouquet-purple-haze@2x.jpg",
+      "alt": "Lavender Dream bouquet"
+    },
+    {
+      "id": "4",
+      "title": "Peach Meadow",
+      "description": "A soft and radiant arrangement of peach and blush roses with lush greenery in a straw basket.",
+      "price": 55,
+      "category": "roses",
+      "favorite": false,
+      "photoURL": "images/bouquet-apricot-glow.jpg",
+      "image2x": "images/bouquet-apricot-glow@2x.jpg",
+      "alt": "Peach Meadow bouquet"
+    },
+    {
+      "id": "5",
+      "title": "Blush Romance",
+      "description": "A premium bouquet of deep pink and ivory roses, complemented by silver eucalyptus.",
+      "price": 34,
+      "category": "premium",
+      "favorite": false,
+      "photoURL": "images/bouquet-pink-symphony.jpg",
+      "image2x": "images/bouquet-pink-symphony@2x.jpg",
+      "alt": "Blush Romance bouquet"
+    },
+    {
+      "id": "6",
+      "title": "Pastel Garden",
+      "description": "A pastel-toned mix of spray roses and greenery in a woven basket.",
+      "price": 40,
+      "category": "mixed",
+      "favorite": false,
+      "photoURL": "images/bouquet-soft-pastels.jpg",
+      "image2x": "images/bouquet-soft-pastels@2x.jpg",
+      "alt": "Pastel Garden bouquet"
+    },
+    {
+      "id": "7",
+      "title": "Tulip Charm",
+      "description": "A vivid bouquet of bright tulips and roses in a lavender box.",
+      "price": 61,
+      "category": "seasonal",
+      "favorite": false,
+      "photoURL": "images/bouquet-vibrant-tulips.jpg",
+      "image2x": "images/bouquet-vibrant-tulips@2x.jpg",
+      "alt": "Tulip Charm bouquet"
+    },
+    {
+      "id": "8",
+      "title": "Berry Bloom",
+      "description": "A lush mix of rich pink, purple, and cream blooms with textured greens.",
+      "price": 32,
+      "category": "mixed",
+      "favorite": false,
+      "photoURL": "images/bouquet-wild-berries.jpg",
+      "image2x": "images/bouquet-wild-berries@2x.jpg",
+      "alt": "Berry Bloom bouquet"
+    },
+    {
+      "id": "9",
+      "title": "Sweet Whisper",
+      "description": "A charming spring bouquet with peonies, roses, and lilac-toned accents.",
+      "price": 40,
+      "category": "seasonal",
+      "favorite": false,
+      "photoURL": "images/bouquet-lilac-breeze.jpg",
+      "image2x": "images/bouquet-lilac-breeze@2x.jpg",
+      "alt": "Sweet Whisper bouquet"
+    },
+    {
+      "id": "10",
+      "title": "Field Joy",
+      "description": "A rustic hand-tied bouquet of sunflowers, lisianthus, and daisies.",
+      "price": 49,
+      "category": "seasonal",
+      "favorite": false,
+      "photoURL": "images/bouquet-golden-sun.jpg",
+      "image2x": "images/bouquet-golden-sun@2x.jpg",
+      "alt": "Field Joy bouquet"
+    },
+    {
+      "id": "11",
+      "title": "Soft Bloom",
+      "description": "A delicate bouquet of pink carnations and roses wrapped in satin paper.",
+      "price": 37,
+      "category": "roses",
+      "favorite": false,
+      "photoURL": "images/bouquet-blush-carnation.jpg",
+      "image2x": "images/bouquet-blush-carnation@2x.jpg",
+      "alt": "Soft Bloom bouquet"
+    },
+    {
+      "id": "12",
+      "title": "Rose Serenade",
+      "description": "An elegant gathering of garden roses and soft greenery.",
+      "price": 42,
+      "category": "roses",
+      "favorite": false,
+      "photoURL": "images/bouquet-apricot-glow.jpg",
+      "image2x": "images/bouquet-apricot-glow@2x.jpg",
+      "alt": "Rose Serenade bouquet"
+    },
+    {
+      "id": "13",
+      "title": "Garden Whisper",
+      "description": "A breezy mix of spray roses, eucalyptus, and seasonal blooms.",
+      "price": 38,
+      "category": "mixed",
+      "favorite": false,
+      "photoURL": "images/bouquet-soft-pastels.jpg",
+      "image2x": "images/bouquet-soft-pastels@2x.jpg",
+      "alt": "Garden Whisper bouquet"
+    },
+    {
+      "id": "14",
+      "title": "Autumn Glow",
+      "description": "Warm seasonal blooms with sunflowers and daisies.",
+      "price": 45,
+      "category": "seasonal",
+      "favorite": false,
+      "photoURL": "images/bouquet-golden-sun.jpg",
+      "image2x": "images/bouquet-golden-sun@2x.jpg",
+      "alt": "Autumn Glow bouquet"
+    },
+    {
+      "id": "15",
+      "title": "Velvet Noir",
+      "description": "A luxe arrangement of deep roses and ivory accents with silver foliage.",
+      "price": 58,
+      "category": "premium",
+      "favorite": false,
+      "photoURL": "images/bouquet-pink-symphony.jpg",
+      "image2x": "images/bouquet-pink-symphony@2x.jpg",
+      "alt": "Velvet Noir bouquet"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "1",
+      "text": "Flora made my anniversary unforgettable with their beautiful arrangement!",
+      "author": "Emma T."
+    },
+    {
+      "id": "2",
+      "text": "Absolutely stunning bouquet! It looked even better than the photo and arrived right on time.",
+      "author": "Daniel R."
+    },
+    {
+      "id": "3",
+      "text": "The service was exceptional, and the flowers were fresh!",
+      "author": "Olivia M."
+    }
+  ],
+  "orders": [],
+  "subscribers": []
+}
