@@ -15,15 +15,12 @@ const adaptBouquet = (bouquet) => ({
 
 export const getBouquets = async ({ page, limit, category, featured } = {}) => {
   const params = {};
-  // Используем синтаксис json-server для пагинации
-  if (page) params._page = page;
-  if (limit) params._per_page = limit;
+  if (page) params.page = page;          
+  if (limit) params.limit = limit;      
   if (category && category !== "all") params.category = category;
   if (typeof featured === "boolean") params.favorite = featured;
 
   const response = await apiClient.get("/bouquets", { params });
-
-  // json-server v1+ возвращает объект { data: [...] } при пагинации
   const items = response.data.data || response.data;
   return items.map(adaptBouquet);
 };
