@@ -906,14 +906,16 @@ button {
 }
 
 .testimonial-card {
-  height: 100%;
+  display: flex;
+  flex-direction: column;
+  height: auto;
 }
 
 .testimonial-body {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  height: 100%;
+  flex-grow: 1;
   padding: 24px;
   background-color: var(--c-bg-primary);
   border: 1px solid var(--c-border-subtle);
